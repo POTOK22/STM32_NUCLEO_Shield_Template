@@ -5,9 +5,9 @@
 	(uuid "b652b05a-4e3d-4ad1-b032-18886abe7d45")
 	(paper "A4")
 	(title_block
+		(date "2025-12-26")
 		(rev "${REVISION}")
 		(company "Author:")
-		(comment 1 "Reviewer:")
 	)
 	(lib_symbols)
 	(sheet_instances
@@ -16,4 +16,24 @@
 		)
 	)
 	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "putm_frame.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WAvCY0UAObcWyEA1TZqxSYpSnAbOsWnapwROGKZeeE9KM64wmSW/n9CwQRSAEsAVAD4Oxyb
+				J+1rOdkbNb9xsXDRanbnQyvya8XCVdH2ki1/5E8AAAIk6L2cVUZpqIzfhq4RSaozfi/7dQ4BEChg
+				lFKrztoX2zJ7iAAIlB+RJvRA+yEEXWKSolT/yP/7a1pX7XmRRhm89j0nPWe/GYMv9uxJfUAsfu3i
+				22/vfIcXhLPXVP/1ccRg7drh9YPVk9L+7H1JUe2jdx/0POJ//JEB+OurcpitYkNewTCqH4nK6mxS
+				yYTrKhtGw9AW3MM0uKqrJ6VZhegMO20WjaHZLl3HmQat8PcYOWdS9r8ONmljvwR5rtpUI9Wr5/d9
+				k1qAwF+8oX3VgQKiXplVrUPNLIqo06IWyRYhXY8c8WLWjESjRCYLrEJYts3RYRitDhFNskG4hmgb
+				h2rSDWLhLOJbS6Wh7XfvdALDScCh+r0x401nJz1KZaNolJLtQjGAgKAhPaUYmpIUJClkmAOARKTm
+				qDqKaBj8cOU0CMQEDCAPXptjKGfrooqHvkhFQiG28qvJM4YHQAhI789Pe6CM7SBne5Vtvvq9wkcX
+				nj05P3mYi4NXPJ/uUrLUtQk2w76hQgx0MktjeoBh+lxTD5IGHQ8SF9Ga45urwV0FAriFfagEhtx5
+				PGHBX1CBeRAr8grmewQSn3TJNDZp6SKSo3klm1fsFkaN6NERStGPAAJ0Kkf9E0NKGKCXmflfrqck
+				pBHEJ8GdTlHn24ljbxPc+WIMW/jPAgcgyPKJHrUDci3M7EQ4CER7hddwyKWAwM1vyOwMDboKEy8K
+				OKN2seQXk/bQSa/Qvsl6kQcUuziiY7xUSu4KhT3mI977rkPExkevAg==|
+			)
+			(checksum "D28CC2D8CCEF14F2FD87317FD6BA98A1")
+		)
+	)
 )

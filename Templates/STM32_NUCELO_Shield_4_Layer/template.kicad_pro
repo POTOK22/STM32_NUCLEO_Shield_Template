@@ -652,7 +652,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "putm_frame.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://template_frame.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
