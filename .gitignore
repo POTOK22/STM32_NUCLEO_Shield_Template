@@ -1,0 +1,5 @@
+# Ignored files
+**fp-info-cache
+
+# Ignored directories
+**/template-backups/
