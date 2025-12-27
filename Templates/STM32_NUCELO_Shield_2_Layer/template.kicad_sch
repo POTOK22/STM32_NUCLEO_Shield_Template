@@ -5,11 +5,24 @@
 	(uuid "b652b05a-4e3d-4ad1-b032-18886abe7d45")
 	(paper "A4")
 	(title_block
-		(date "2025-12-26")
+		(date "2025-12-27")
 		(rev "${REVISION}")
 		(company "Author:")
 	)
 	(lib_symbols)
+	(text "TITLE"
+		(exclude_from_sim no)
+		(at 12.7 24.13 0)
+		(effects
+			(font
+				(size 12 12)
+				(thickness 4.8)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "3e416e4d-0627-461a-b23a-2031b793e456")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

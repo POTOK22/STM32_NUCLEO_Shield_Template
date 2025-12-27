@@ -10,6 +10,19 @@
 		(company "Author:")
 	)
 	(lib_symbols)
+	(text "TITLE"
+		(exclude_from_sim no)
+		(at 12.7 24.13 0)
+		(effects
+			(font
+				(size 12 12)
+				(thickness 4.8)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "cec71073-0df9-405e-812b-e61d9091f6a5")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
